@@ -1,0 +1,3 @@
+Take last week's assignment and add an about page with an about link on the page,
+so that if a user wants to see who made the game, they can get an in depth description about who you are. Add basic information and 
+qualities about yourself. Make sure to try to use CSS with proper classes and ids. 
